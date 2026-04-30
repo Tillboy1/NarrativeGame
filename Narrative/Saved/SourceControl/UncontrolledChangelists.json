@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/HousingEstate.umap",
-				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/SC_Housing.umap",
-				"D:/keiran/Git/NarrativeGame/Narrative/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Keiran/Git/NarrativeGame/Narrative/Content/Narative/SC_Housing.umap",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Keiran/Git/NarrativeGame/Narrative/Content/Narative/TreeBase.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/HousingEstate.umap"
 			]
 		}
 	]

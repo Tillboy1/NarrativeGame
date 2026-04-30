@@ -1,8 +1,2 @@
-2026/04/24-11:53:00.088 8c48 Creating DB D:/keiran/Git/NarrativeGame/Narrative/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/24-11:53:00.091 8c48 Reusing MANIFEST D:/keiran/Git/NarrativeGame/Narrative/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/24-11:54:45.800 6578 Level-0 table #5: started
-2026/04/24-11:54:45.801 6578 Level-0 table #5: 19441 bytes OK
-2026/04/24-11:54:45.802 6578 Delete type=0 #3
-2026/04/24-11:57:28.343 6578 Level-0 table #7: started
-2026/04/24-11:57:28.345 6578 Level-0 table #7: 9941 bytes OK
-2026/04/24-11:57:28.347 6578 Delete type=0 #4
+2026/04/30-12:56:24.874 4250 Creating DB D:/Keiran/Git/NarrativeGame/Narrative/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/30-12:56:24.880 4250 Reusing MANIFEST D:/Keiran/Git/NarrativeGame/Narrative/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
