@@ -7,7 +7,17 @@
 			"files": [
 				"D:/Keiran/Git/NarrativeGame/Narrative/Content/Narative/SC_Housing.umap",
 				"D:/keiran/Git/NarrativeGame/Narrative/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Keiran/Git/NarrativeGame/Narrative/Content/Narative/TreeBase.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/TreeBase.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Tree_Tree_Branch_Dupli_.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Matirals/Leaves.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Matirals/LogTexture.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Matirals/Maple_Bark_2_COLOR.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Matirals/Tree_Branch.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Objects/Tree_Tree_Branch_Dupli_.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Objects/Tree.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Objects/TreeBase.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Objects/BaseItems/Tree_Tree_Branch_Dupli_.uasset",
+				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/Objects/BaseItems/Tree.uasset",
 				"D:/keiran/Git/NarrativeGame/Narrative/Content/Narative/HousingEstate.umap"
 			]
 		}
