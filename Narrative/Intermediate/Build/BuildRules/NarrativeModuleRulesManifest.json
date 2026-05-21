@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\keiran\\Git\\NarrativeGame\\Narrative\\Intermediate\\Source\\Narrative.Build.cs",
+		"E:\\keiran\\Git\\NarrativeGame\\Narrative\\Intermediate\\Source\\Narrative.Target.cs",
+		"E:\\keiran\\Git\\NarrativeGame\\Narrative\\Intermediate\\Source\\NarrativeClient.Target.cs",
+		"E:\\keiran\\Git\\NarrativeGame\\Narrative\\Intermediate\\Source\\NarrativeEditor.Target.cs",
+		"E:\\keiran\\Git\\NarrativeGame\\Narrative\\Intermediate\\Source\\NarrativeServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
